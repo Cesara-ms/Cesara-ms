@@ -1,5 +1,5 @@
-Hi, I’m @Cesara-ms
-I’m a Microsoft Cloud Solution Architect, from the Develepor Advocacy team.
+Hi, I’m @Cesara-ms.    
+I’m a Microsoft Cloud Solution Architect, from the Develepor Advocacy team.     
 You can reach me at cesara@microsoft.com
 
 <!---
